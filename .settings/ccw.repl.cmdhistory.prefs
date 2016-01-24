@@ -1,0 +1,2 @@
+cmdhistory=["(readFile \\"test.jpg\\")" "(show baseImg)" "width" "baseWd" "(set-pixel (/ baseWd 2) (/ baseHg 2) 000000)" "baseWd" "(/ baseWd 3)"]
+eclipse.preferences.version=1
