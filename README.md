@@ -1,14 +1,14 @@
 # cse270f_finalproject
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library containing a few simple image filters, implementing Mikera's 'Imagez' library for image manipulation.
+Created as a project for CSE270F, Functional Programming at Miami University.
 
-## Usage
 
-FIXME
+Why I chose Clojure to do any image processing is beyond me, but here it is.
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Samuel Mallamaci
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
